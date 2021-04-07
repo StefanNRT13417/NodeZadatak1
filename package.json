@@ -1,0 +1,23 @@
+{
+  "name": "nodezadatak1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NRT13417.zadatak1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanNRT13417/NodeZadatak1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefanNRT13417/NodeZadatak1/issues"
+  },
+  "homepage": "https://github.com/StefanNRT13417/NodeZadatak1#readme",
+  "dependencies": {
+    "@types/mathjs": "^6.0.11",
+    "mathjs": "^9.3.0"
+  }
+}
